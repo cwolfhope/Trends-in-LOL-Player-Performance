@@ -84,5 +84,5 @@ This graph in particular displays the clearest observable correlation between KD
 Graph #7:
 Recapping some of the analysis' that were made in graphs 3 to 6, graph 7 shows the linear regression of the scatterplot, which as previously predicted shows that higher winrates are directly correlated with high KDAR scores.
 
-#Conclusion
+#Conclusions
 High rankings (lower valued rankings are relatively higher on the leaderboards) are associated with high winrates and low average deaths. Additionally, the analysis of the graphs suggests that keeping deaths low at the expense of kills and assists, is the best way of climbing in rank. Lastly, based on the overall low amount of games played by the majority of highest ranked players, "Smurfing" may be required to actively compete with other players for ranking on the leaderboard.
