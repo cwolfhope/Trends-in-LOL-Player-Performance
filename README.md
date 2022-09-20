@@ -3,11 +3,11 @@
 
 # Preface
 
-League of Legends is a MOBA (Multiplayer Online Battle Arena) where teams of 5 players face off against each other with the goal of destroying the enemy 'Nexus'. Recently In-Game, I surpassed the 'Top 500' (Abitrary) milestone on the character (called 'Champions') named Zac. 
+League of Legends is a MOBA (Multiplayer Online Battle Arena) where teams of 5 players face off against each other with the goal of destroying the enemy 'Nexus'. Recently In-Game, I surpassed the 'Top 500' (Arbitrary) milestone on the character (called 'Champions') named Zac. 
 
 # Goal
 
-In this project, I analyze a dataset that I have put together containing the personal statistics of the Top 100 Zac players in the game in order to better understand what stats I need to personally improve upon in order to climb (Rise in Rank) the ranks further. While I do not include my own personal statistics in the framework of this project, I fundamentally believe that an understanding of the information that I present in this project to be of paramount use to anyone wishing to climb at any rank.
+In this project, I analyze a dataset that I have put together containing the personal statistics of the Top 100 Zac players in the game in order to better understand what stats I need to personally improve upon in order to climb (Rise in Rank) the ranks further. While I do not include my own personal statistics in the framework of this project, I fundamentally believe that an understanding of the information that I present in this project is of paramount use to anyone wishing to climb at any rank.
 
 # API Documentation
 
@@ -44,13 +44,13 @@ SOFTWARE.
 
 The dataset for this project was manually compiled from the list of 'Best Zac Players' via the 'Porofessor' Desktop Application. 
 
-The 'Porofessor' Desktop Application can be aquired via the 'Overwolf' app store or viewed with limited access at their webpage: https://porofessor.gg/
+The 'Porofessor' Desktop Application can be acquired via the 'Overwolf' app store or viewed with limited access at their webpage: https://porofessor.gg/
 Overwolf: https://www.overwolf.com/
-An image of this list and an example of the the presentation of this data (using the statistics of the #1 Zac player) can be located at: https://imgur.com/a/t5ltjdo
+An image of this list and an example of the presentation of this data (using the statistics of the #1 Zac player) can be located at: https://imgur.com/a/t5ltjdo
 
 # Data Types
 
-Within the dataset there is five different types of data that are listed.
+Within the dataset, there are five different types of data that are listed.
 These include:
 - Rank (Ordered from High to Low)
 - Winrate (Describes the winrate of the ranking player's Zac statistics without relation to overall account winrate)
