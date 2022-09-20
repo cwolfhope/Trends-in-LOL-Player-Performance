@@ -58,3 +58,5 @@ An additional data type is analyzed within the code pertaining the KDAR (Kill, D
 As user game data is subject to change rapidly over time, it is highly likely that since collection (Compiled on 9-17-20), the general player statistics of the 'Top 100 Zac Mains' has changed noticeably from the version provided in this project. 
 
 Given the source of the data provided on Porofessor (sourced directly from League of Legends game statistics), it is highly unlikely that the data in the dataset contains bias.
+
+# Analysis
