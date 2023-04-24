@@ -1,4 +1,4 @@
-# Trends in Statistics for the Top 100 Zac Mains
+# Statistical Trends in Gaming Performance Data
 # Analyzing the Top 100 Zac Mains for Trends in Personal Statistic Data
 
 # Preface
