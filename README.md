@@ -1,4 +1,4 @@
-# Statistical Trends in Gaming Performance Data
+# Trends in LOL Player Performance
 # Analyzing the Top 100 Zac Mains for Trends in Personal Statistic Data
 
 # Preface
