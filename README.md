@@ -1,4 +1,4 @@
-# I310-Assignment-1
+# Trends in Statistics for the Top 100 Zac Mains
 # Analyzing the Top 100 Zac Mains for Trends in Personal Statistic Data
 
 # Preface
